@@ -1,4 +1,4 @@
-package com.jiakaiyang.cachedview
+package com.jiakaiyang.cachedview.samples
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
